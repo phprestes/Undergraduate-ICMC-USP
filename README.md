@@ -154,14 +154,72 @@ The portfolio is organized chronologically by semester and course. Each project 
     <img src="https://gh-card.dev/repos/Dantovisk/Trabalho-de-Fisica.svg" alt="Repo Card" />
   </a>
 
-## 🔹 3st Semester (2025.1)
+## 🔹 3rd Semester (2025.1)
+
+## 📚 Files Organization
+* **Project Name:** SQL Index System in C
+* **Description:** A C-based implementation of fundamental SQL commands, utilizing indexing structures such as B-Trees to ensure efficient data retrieval and file manipulation.
+* **Techniques:** Index Structures (B-Trees), File Organization, Relational Data Management.
+* **Stack:** `C`, `Python`, `Basic SQL`, `Shell/Bash Script`, `Valgrind`, `Makefile`
+* **Repository:**
+
+  <a href="https://github.com/fernandovtorres/OrganizacaoArquivos">
+    <img src="https://gh-card.dev/repos/fernandovtorres/OrganizacaoArquivos.svg" alt="Repo Card" />
+  </a>
+
 ## 📚 Computer Organization and Architecture
-* **Project Name:** RISC-V Assembly Solutions - Computer Organization and Architecture
-* **Description:** A collection of low-level programs and academic assignments developed in RISC-V assembly. The project explores foundational hardware-software interface concepts.
+* **Project Name:** RISC-V Assembly Solutions
+* **Description:** A comprehensive collection of low-level programs and academic assignments developed in RISC-V assembly, exploring foundational hardware-software interface concepts.
 * **Techniques:** Assembly Language Programming, Instruction Set Architecture (ISA), Stack Management & Calling Conventions, Register Allocation, Memory Mapping, Bitwise Operations.
-* **Stack:** `RISC-V Assembly`, `RARS`
+* **Stack:** `RISC-V`, `Assembly`, `RARS`
 * **Repository:**
 
   <a href="https://github.com/phprestes/OrgComp">
     <img src="https://gh-card.dev/repos/phprestes/OrgComp.svg" alt="Repo Card" />
+  </a>
+
+
+## 📚 Object-Oriented Programming (OOP)
+* **Project Name:** OOP Exercises
+* **Description:** A collection of exercises applying core Object-Oriented Programming concepts to various computer science contexts, including graph theory, tree structures, and GUI generation.
+* **Techniques:** Encapsulation, Inheritance, Polymorphism, Abstraction, Graphical User Interfaces (GUI), Data Structures.
+* **Stack:** `Java`, `Python`
+* **Repository:**
+
+  <a href="https://github.com/phprestes/POO">
+    <img src="https://gh-card.dev/repos/phprestes/POO.svg" alt="Repo Card" />
+  </a>
+
+##
+
+* **Project Name:** JupiterWeb Web Scraping
+* **Description:** A web scraping tool designed to extract course data from the University of São Paulo's academic portal, generating a visual network graph of discipline prerequisites and dependencies.
+* **Techniques:** Web Scraping, Data Extraction, Network Graph Visualization, Automation.
+* **Stack:** `Python`, `Selenium`, `BeautifulSoup`
+* **Repository:**
+
+  <a href="https://github.com/plunkes/projeto-final-POO">
+    <img src="https://gh-card.dev/repos/plunkes/projeto-final-POO.svg" alt="Repo Card" />
+  </a>
+
+## 📚 Practice in Computer Organization and Architecture
+* **Project Name:** Thin Ice Assembly Game
+* **Description:** An assembly-based game designed for the ICMC's custom CPU architecture and playable on a Cyclone V FPGA. The project also proposes architectural modifications to enhance hardware performance.
+* **Techniques:** Assembly Language Programming, Instruction Set Architecture (ISA), Stack Management & Calling Conventions, Register Allocation, Memory Mapping, Bitwise Operations, Game Development.
+* **Stack:** `Assembly`, `Python`, `VHDL/Verilog`
+* **Repository:**
+
+  <a href="https://github.com/Dantovisk/PraticaOrgComp">
+    <img src="https://gh-card.dev/repos/Dantovisk/PraticaOrgComp.svg" alt="Repo Card" />
+  </a>
+
+## 📚 Functional Programming
+* **Project Name:** Functional Programming Exercises
+* **Description:** A comparative collection of exercises exploring pure functional programming paradigms, implemented in Haskell alongside multi-paradigm languages.
+* **Techniques:** Pure Functions, Immutability, Recursion, Higher-Order Functions, Lazy Evaluation.
+* **Stack:** `Haskell`, `Java`, `Python`, `Ruby`, `JavaScript`
+* **Repository:**
+
+  <a href="https://github.com/phprestes/Funcional">
+    <img src="https://gh-card.dev/repos/phprestes/Funcional.svg" alt="Repo Card" />
   </a>
