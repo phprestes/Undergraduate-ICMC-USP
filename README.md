@@ -227,7 +227,6 @@ The portfolio is organized by semester and course, from the most recent to the o
     <img src="https://gh-card.dev/repos/phprestes/OrgComp.svg" alt="Repo Card" />
   </a>
 
-
 ## 📚 Object-Oriented Programming (OOP)
 * **Project Name:** OOP Exercises
 * **Description:** A collection of exercises applying core Object-Oriented Programming concepts to various computer science contexts, including graph theory, tree structures, and GUI generation.
@@ -287,7 +286,7 @@ The portfolio is organized by semester and course, from the most recent to the o
   <a href="https://github.com/Dantovisk/TrabalhoICC2">
     <img src="https://gh-card.dev/repos/Dantovisk/TrabalhoICC2.svg" alt="Repo Card" />
   </a>
-  
+
 ##
 
 * **Project Name:** NYT Spelling Bee Clone
@@ -295,7 +294,7 @@ The portfolio is organized by semester and course, from the most recent to the o
 * **Techniques:** String Processing, Hashing, Search Algorithms, Recursion, Divide and Conquer.
 * **Stack:** `C`, `Valgrind`, `Makefile`
 * **Repository:**
-  
+
   <a href="https://github.com/Dantovisk/TrabalhoICC2">
     <img src="https://gh-card.dev/repos/Dantovisk/TrabalhoICC2.svg" alt="Repo Card" />
   </a>
@@ -314,7 +313,7 @@ The portfolio is organized by semester and course, from the most recent to the o
 * **Techniques:** Dynamic Programming, Bitmasking, Deques, Arrays, Algorithm Optimization.
 * **Stack:** `C`, `Valgrind`, `Makefile`
 * **Repository:**
-  
+
   <a href="https://github.com/Dantovisk/Caixeiro-Viajante">
     <img src="https://gh-card.dev/repos/Dantovisk/Caixeiro-Viajante.svg" alt="Repo Card" />
   </a>
@@ -324,9 +323,9 @@ The portfolio is organized by semester and course, from the most recent to the o
 * **Project Name:** Runtime-Configurable Set ADT (AVL Tree vs. Ordered Sequential List)
 * **Description:** Designed and implemented a Set Abstract Data Type (ADT) in C that allows selecting the underlying data structure at runtime during initialization. Features full implementations of core set operations. It also includes an automated bash-script-based test case generator.
 * **Techniques:** AVL Trees (Rotations & Balance Factors), Ordered Sequential Lists, Binary Search, Dynamic Memory Allocation (`realloc`), Asymptotic Analysis (Big-O Notation), Set Theory Operations.
-* **Stack:** `C`,  `Shell/Bash Script`, `Valgrind`, `Makefile`
+* **Stack:** `C`, `Shell/Bash Script`, `Valgrind`, `Makefile`
 * **Repository:**
-  
+
   <a href="https://github.com/plunkes/operacoes-conjuntos">
     <img src="https://gh-card.dev/repos/plunkes/operacoes-conjuntos.svg" alt="Repo Card" />
   </a>
@@ -337,7 +336,7 @@ The portfolio is organized by semester and course, from the most recent to the o
 * **Techniques:** Asymptotic Analysis (Big-O), Divide and Conquer, Sorting Algorithms (Quick, Merge, Heap, Radix, Shell, Stooge), Search Algorithms (Binary, DFS, BFS), Graph Traversal, HashMaps, Binary Search Trees (BST), Maximum Consecutive Subsequence (MCS).
 * **Stack:** `C`, `Python`, `Shell/Bash Script`, `Valgrind`, `Makefile`
 * **Repository:**
-  
+
   <a href="https://github.com/phprestes/Lab-ICC2">
     <img src="https://gh-card.dev/repos/phprestes/Lab-ICC2.svg" alt="Repo Card" />
   </a>
@@ -386,22 +385,22 @@ The portfolio is organized by semester and course, from the most recent to the o
 * **Techniques:** Problem Solving & Algorithm Analysis, Control Structures (Decision & Repetition), Modularization (Procedures & Functions), Compound Data Types (Arrays, Matrices, Strings, Structs), Dynamic Structures (Pointers), File I/O, Debugging.
 * **Stack:** `C`, `Valgrind`
 * **Repository:**
-  
+
   <a href="https://github.com/phprestes/Exercicios-ICC1-e-Lab">
     <img src="https://gh-card.dev/repos/phprestes/Exercicios-ICC1-e-Lab.svg" alt="Repo Card" />
   </a>
 
 ## 📚 Electronics for Computing
-* **Project Name:** Arduino Sonar 
+* **Project Name:** Arduino Sonar
 * **Description:** An Arduino-based sonar system utilizing a 9g micro servo motor and an HC-SR04 ultrasonic sensor to accurately detect and track approaching objects in real-time.
 * **Techniques:** Basic Electronic Circuits, Component Characterization, Digital Logic Gates, Microcontroller Programming, Sensor Integration.
 * **Stack:** `C++`, `Arduino`, `Java`
 * **Repository:**
-  
+
   <a href="https://github.com/JhonatanBarboza/Arduino">
     <img src="https://gh-card.dev/repos/JhonatanBarboza/Arduino.svg" alt="Repo Card" />
   </a>
-  
+
 ##
 
 * **Project Name:** Regulated DC Power Supply
@@ -409,7 +408,7 @@ The portfolio is organized by semester and course, from the most recent to the o
 * **Techniques:** AC to DC Conversion, Signal Rectification & Filtering, Voltage Regulation, Transient Effects Analysis, Circuit Design & Simulation.
 * **Stack:** N/A
 * **Repository:**
-  
+
   <a href="https://github.com/JhonatanBarboza/Fonte_de_tensao">
     <img src="https://gh-card.dev/repos/JhonatanBarboza/Fonte_de_tensao.svg" alt="Repo Card" />
   </a>
