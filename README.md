@@ -216,6 +216,18 @@ The portfolio is organized by semester and course, from the most recent to the o
     <img src="https://gh-card.dev/repos/fernandovtorres/OrganizacaoArquivos.svg" alt="Repo Card" />
   </a>
 
+##
+
+* **Project Name:** B-Tree Visualizer
+* **Description:** A Python tool that reads the binary index file of a B-Tree and draws the tree, coloring root, internal, and leaf nodes differently. Built for the Files Organization course.
+* **Techniques:** B-Tree Structures, Binary File Parsing, Graph Visualization.
+* **Stack:** `Python`, `NetworkX`, `Matplotlib`, `Graphviz`
+* **Repository:**
+
+  <a href="https://github.com/phprestes/ArvoreB-Visualizador">
+    <img src="https://gh-card.dev/repos/phprestes/ArvoreB-Visualizador.svg" alt="Repo Card" />
+  </a>
+
 ## 📚 Computer Organization and Architecture
 * **Project Name:** RISC-V Assembly Solutions
 * **Description:** A comprehensive collection of low-level programs and academic assignments developed in RISC-V assembly, exploring foundational hardware-software interface concepts.
@@ -223,8 +235,8 @@ The portfolio is organized by semester and course, from the most recent to the o
 * **Stack:** `RISC-V`, `Assembly`, `RARS`
 * **Repository:**
 
-  <a href="https://github.com/phprestes/OrgComp">
-    <img src="https://gh-card.dev/repos/phprestes/OrgComp.svg" alt="Repo Card" />
+  <a href="https://github.com/phprestes/Org-Comp">
+    <img src="https://gh-card.dev/repos/phprestes/Org-Comp.svg" alt="Repo Card" />
   </a>
 
 ## 📚 Object-Oriented Programming (OOP)
